@@ -1,0 +1,13 @@
+# E02
+DBL HTI + Webtech
+
+For visualization of the database the requirements are:
+what type of database?
+ Please provide example curl (Get and Post) requests to the DB.https://curl.haxx.se/
+Also what framework - React, Angular, ViewJs, Meteor.... will we use?
+ requirementswork in branches - code review
+ SW requirements
+work in branches - code review - merge in master
+ssh he the server
+ wat kind of DB will we use - MySQL, Postgress, MariaDB
+version js
